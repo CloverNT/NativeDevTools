@@ -1,0 +1,23 @@
+# Build output
+/build/
+build*/
+cmake-build-*/
+out/
+
+# CMake / FetchContent caches
+CMakeCache.txt
+CMakeFiles/
+_deps/
+
+# Local runtime artifacts
+*.log
+clover-devtools-prefs.json
+frontend-path.txt
+
+# IDE / OS
+.idea/
+.vs/
+.vscode/
+*.user
+.DS_Store
+Thumbs.db

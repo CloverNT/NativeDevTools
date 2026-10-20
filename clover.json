@@ -1,0 +1,9 @@
+{
+  "name": "NativeDevTools",
+  "type": "native",
+  "version": "0.1.0",
+  "author": "CloverNT",
+  "platform": "windows",
+  "description": "Restores QQ's native Chromium DevTools in the browser process.",
+  "entry": "NativeDevTools.dll"
+}
